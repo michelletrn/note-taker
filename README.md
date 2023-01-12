@@ -27,7 +27,7 @@ Using Express.js as back-end, a note-taking application was created. This applic
 
   Github repo: https://github.com/michelletrn/note-taker
 
-  Here is a screen shot of a generated team profile page:
+  Here is a screen shot of the deployed page:
   ![main page screenshot](./img/note-taker-main.png)
   ![notes page screenshot](./img/note-taker-notes.png)
 
